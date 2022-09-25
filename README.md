@@ -1,2 +1,2 @@
 # PHP
-Página para o estudo de PHP e web.
+Estudo de PHP e web.
